@@ -11,6 +11,12 @@
   url = "/post/"
 
   [[main]]
+  name = "Aphorisms"
+  weight = 200
+  identifier = "aphorisms"
+  url = "/aphorisms/"
+
+  [[main]]
   name = "About"
   weight = 400
   identifier = "about"
