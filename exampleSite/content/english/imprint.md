@@ -1,8 +1,6 @@
-# Legal Disclosure
+# Website created with Hugo's Framework
 
-Information in accordance with the applicable law
+[Official Website](https://gohugo.io/)
 
-Jane Doe\
-Anatole Street 10\
-2016 GoHugo\
-Germany
+Robson Cassiano\
+Brazil 2022

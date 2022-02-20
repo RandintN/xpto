@@ -7,7 +7,7 @@ LanguageName = "English"
 
 [pt-br]
 title = "Robson Cassiano"
-description = "Brazilian Portuguese"
+description = "Becoming a Full Stack Human"
 contentDir = "content/portuguese" 
 weight = 1
 LanguageName = "Português"
