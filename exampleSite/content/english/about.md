@@ -1,25 +1,19 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
+description = "About Robson Cassiano"
+date = "2022-02-19"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "Robson Cassiano"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+With 7 years of experience, I talk both "tech nerd" and "business speak" fluently. Whether you have the next great idea, you just need help getting it out of your head and into a product — or — you have a clearly defined set of project requirements, I'm your man. Let's build a secure, user-friendly, and performant application together!
 
-Hugo makes use of a variety of open source projects including:
+I am passionate about working with the best technologies for each context, helping people, and software engineering. I love what technology has done for businesses and consumers, and there is no doubt it is going to have a continued effect throughout the world moving forward.
+
+My Projects:
 
 - https://github.com/yuin/goldmark
 - https://github.com/alecthomas/chroma
 - https://github.com/muesli/smartcrop
 - https://github.com/spf13/cobra
 - https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
