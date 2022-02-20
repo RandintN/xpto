@@ -17,8 +17,8 @@ enableRobotsTXT = true
 
 # Google Analytics
 # googleAnalytics = ""
-[params]
-gtagId = "G-2VK87TKNNF"
+# [params]
+# gtagId = "G-2VK87TKNNF"
 
 # Syntax highlighting
 pygmentsUseClasses = true   
