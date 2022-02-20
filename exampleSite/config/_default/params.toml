@@ -70,7 +70,6 @@ title = "e-mail"
 url = "mailto:robson.cordeiro777@gmail.com"
 
 [[socialIcons]]
-icon = "fa-brands fa-twitter"
-title = "twitter"
+icon = "fab fa-twitter"
+title = "Twitter"
 url = "https://www.twitter.com/randintn"
-
