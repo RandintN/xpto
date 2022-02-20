@@ -1,6 +1,6 @@
   [[main]]
   name = "Home"
-  identifier = "main"
+  identifier = "home"
   weight = 100
   url = "/pt-br/"
 
@@ -14,10 +14,16 @@
   name = "Sobre mim"
   weight = 300
   identifier = "about"
-  url = "/pt-br/about/"
+  url = "/pt-br/sobre-mim/"
 
   [[main]]
   name = "Contato"
   weight = 400
   identifier = "contact"
-  url = "/pt-br/contact/"
+  url = "/pt-br/contato/"
+
+  [[footer]]
+  name = "imprint"
+  weight = 1
+  identifier = "imprint"
+  url = "/pt-br/imprint/"
