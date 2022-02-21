@@ -49,7 +49,7 @@ html[data-theme='dark'] {
 html {
   background-color: var(--bg-color);
   -webkit-font-smoothing: antialiased;
-  font-size: 62.5%;
+  font-size: 75%;
 }
 
 body {
