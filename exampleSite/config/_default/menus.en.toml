@@ -17,6 +17,13 @@
   url = "/aphorisms/"
 
   [[main]]
+  name = "Courses"
+  weight = 200
+  identifier = "courses"
+  url = "/courses/"
+
+
+  [[main]]
   name = "About"
   weight = 400
   identifier = "about"

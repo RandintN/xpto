@@ -61,7 +61,7 @@ author = "Robson Cassiano"
 
 
 > “It is amazing how complete is the delusion that beauty is goodness.” 
-> ― Leo Tolstoy, The Kreutzer Sonata
+> <cite>― Leo Tolstoy, The Kreutzer Sonata</cite>
 
 
 > One of the most underrated career skills that isn’t really taught > anywhere is editing your own writing.
@@ -74,7 +74,7 @@ author = "Robson Cassiano"
 
 
 > If a thing is done well, no one will ask how long it took to do it, but > only, who did it.
-> — John Taylor
+> <cite>— John Taylor</cite>
 
 
 
